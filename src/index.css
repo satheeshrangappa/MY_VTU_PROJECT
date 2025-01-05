@@ -11,3 +11,10 @@
 *{
   font-family:Georgia, 'Times New Roman', Times, serif
 }
+main{
+  min-height: 82vh;
+}
+footer{
+  background-color: rgb(120, 87, 45);
+  padding: 10px;
+}
